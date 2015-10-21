@@ -1,0 +1,2 @@
+# blog
+yejun's notes
